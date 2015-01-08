@@ -1,3 +1,3 @@
-Web site for QIICR project
+Web site for cbibop project
 
-Hosted at http://qiicr.org
+Hosted at http://cbibop.org
